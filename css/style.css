@@ -16,6 +16,15 @@
     text-align: left;
 }
 /* CONTAINER*/
-.container{ 
+.container-main{ 
     margin-top: 20px;
+}
+
+/* FOOTER */
+.footer-bottom {
+	background: #010101;
+    border-top: 1px solid #DDDDDD;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: right;
 }
