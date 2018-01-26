@@ -20,6 +20,15 @@
     margin-top: 20px;
 }
 
+/* ASIDE */
+
+.discuss-link-title, .discuss-link, .link-topic {
+    color:#D66C2D;
+}
+.discuss-link {
+    text-decoration: underline;
+}
+
 /* FOOTER */
 .footer-bottom {
 	background: #010101;
