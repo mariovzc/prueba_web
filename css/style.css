@@ -107,6 +107,14 @@ body{
 .card-elements-cnt{
     padding: 5px;
 }
+.separator{
+    margin-top: 10px;
+    background-color: #ECECEB;
+    border: none;
+    box-shadow: 1px 1px #ECECEB;
+    border-radius: 10px;
+}
+
 /* FOOTER */
 .footer-bottom {
 	background: #010101;
