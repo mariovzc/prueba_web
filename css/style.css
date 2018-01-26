@@ -118,9 +118,17 @@ body{
     margin-top: 20px;
 }
 /* FOOTER */
+.top-footer{
+    background: url('../images/header-bg.png');
+    color: #5D5851;
+    padding: 10px;
+}
+.footer-link{
+    color: #5D5851;
+    font-weight: bold;    
+}
 .footer-bottom {
 	background: #010101;
-    border-top: 1px solid #DDDDDD;
     padding-bottom: 5px;
     padding-top: 5px;
     text-align: right;
