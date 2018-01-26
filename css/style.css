@@ -1,3 +1,17 @@
+body{
+    background-color: #F0EDE5;
+    color: #67645C
+}
+.list-group-item {
+    background: transparent;
+    border-style: dashed;
+    border-left: none;
+    border-right: none;
+}
+.discuss-link-title, .discuss-link, .link-topic, .topic-ctn {
+    color:#D66C2D;
+}
+
 /* center the navbar*/
 .center.navbar .nav,
 .center.navbar .nav > li {
@@ -21,11 +35,17 @@
 }
 
 /* ASIDE */
-
-.discuss-link-title, .discuss-link, .link-topic {
-    color:#D66C2D;
+.share-ctn{
+    margin-top: 20px;
+    background-color: rgba(223, 220, 211, .9);
 }
-.discuss-link {
+.discuss-ctn{
+    margin-top: 15px;
+}
+.discuss-ctn h6 {
+    margin-bottom: 10px;
+}
+.discuss-link, .link-topic {
     text-decoration: underline;
 }
 

@@ -7,7 +7,7 @@ const discussions = [
   {
     title: 'My car needs a fix. Help me find a good shop',
     user: 'Ana Vega',
-    img: 'images/aside/discus/discus-1.png'
+    img: 'images/aside/discus/discus-2.png'
   },
   {
     title: 'Anyone know a good place to buy a bike?',
