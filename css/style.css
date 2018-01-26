@@ -8,7 +8,7 @@ body{
     border-left: none;
     border-right: none;
 }
-.discuss-link-title, .discuss-link, .link-topic, .topic-ctn, .link-card {
+.discuss-link-title, .discuss-link, .link-topic, .topic-ctn, .link-card{
     color:#D66C2D;
 }
 .orange-title{
@@ -114,7 +114,9 @@ body{
     box-shadow: 1px 1px #ECECEB;
     border-radius: 10px;
 }
-
+#places-data{
+    margin-top: 20px;
+}
 /* FOOTER */
 .footer-bottom {
 	background: #010101;
