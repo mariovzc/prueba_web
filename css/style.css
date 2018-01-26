@@ -12,7 +12,20 @@ body{
     color:#D66C2D;
 }
 
-/* center the navbar*/
+/*navbar*/
+.nav-bg{
+    background-image: url("../images/header-bg.png");
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #ffff
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #D66C2D
+}
+.right-nav{
+    background-color: #1A140E;
+    border-radius: 5px;
+}
 .center.navbar .nav,
 .center.navbar .nav > li {
     float:none;
