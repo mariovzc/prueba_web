@@ -8,8 +8,11 @@ body{
     border-left: none;
     border-right: none;
 }
-.discuss-link-title, .discuss-link, .link-topic, .topic-ctn {
+.discuss-link-title, .discuss-link, .link-topic, .topic-ctn, .link-card {
     color:#D66C2D;
+}
+.orange-title{
+    color: #D66C2D;
 }
 
 /*navbar*/
@@ -75,7 +78,35 @@ body{
     padding-bottom: 10px;
 }
 
+.sliders-container{
+    margin-top: 15px;
+}
 
+.events-card{
+    background-color: #FEF3EA;
+}
+.events-card > .card-header, .events-card > .card-footer {
+    color: #B25D25;
+    background: #FDE9D7;
+}
+
+.deals-card{
+    background-color: #F4F8FC;
+}
+.deals-card > .card-header, .deals-card > .card-header {
+    background-color: #E0EBF6;
+    color: #4F6072
+
+}
+.card-elements{
+    background-color: #E2E5E8;
+}
+.card-elements h2 {
+    font-size: 30px;
+}
+.card-elements-cnt{
+    padding: 5px;
+}
 /* FOOTER */
 .footer-bottom {
 	background: #010101;
