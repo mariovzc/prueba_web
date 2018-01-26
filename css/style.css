@@ -62,6 +62,20 @@ body{
     text-decoration: underline;
 }
 
+/*MAIN SECTION*/
+
+.main-section{
+    background-color: #ffffff
+}
+.search-ctn {
+    margin-top: 10px;
+    background-color: #EBEBEA;
+}
+.search-ctn > .card-body {
+    padding-bottom: 10px;
+}
+
+
 /* FOOTER */
 .footer-bottom {
 	background: #010101;
