@@ -127,6 +127,9 @@ body{
     color: #5D5851;
     font-weight: bold;    
 }
+.footer-list{
+    list-style: none;
+}
 .footer-bottom {
 	background: #010101;
     padding-bottom: 5px;
